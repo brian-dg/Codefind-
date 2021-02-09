@@ -511,7 +511,7 @@ h6 {
 #about .about-container .icon-box {
   background: #fff;
   background-size: cover;
-  padding: 30px 0px 30px 0px;
+  padding: 40px 0px 30px 0px;
 }
 
 #about .about-container .icon-box .icon {
@@ -537,18 +537,18 @@ h6 {
   -ms-flex-direction: column;
   flex-direction: column;
   text-align: center;
-  border-radius: 50%;
-  border: 2px solid #007bff;
+  border-radius: 0%;
+  border: none;
   transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #007bff;
+  color: #fff;
   font-size: 24px;
 }
 
 #about .about-container .icon-box:hover .icon {
-  background: #007bff;
+  background: #fff;
 }
 
 #about .about-container .icon-box:hover .icon i {
@@ -556,7 +556,7 @@ h6 {
 }
 
 #about .about-container .icon-box .title {
-  margin-left: 100px;
+  margin-left: 110px;
   font-weight: 600;
   margin-bottom: 5px;
   font-size: 18px;
@@ -567,7 +567,7 @@ h6 {
 }
 
 #about .about-container .icon-box .description {
-  margin-left: 100px;
+  margin-left: 110px;
   line-height: 24px;
   font-size: 14px;
 }
@@ -1281,6 +1281,7 @@ h6 {
 
 #footer .footer-top .footer-contact p {
   line-height: 26px;
+
 }
 
 #footer .footer-top .footer-newsletter {
