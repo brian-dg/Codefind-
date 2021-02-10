@@ -1210,6 +1210,7 @@ h6 {
   font-weight: 400;
   letter-spacing: 3px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 #footer .footer-top .footer-info p {
@@ -1250,6 +1251,7 @@ h6 {
 }
 
 #footer .footer-top .footer-links {
+  text-align: center;
   margin-bottom: 30px;
 }
 
@@ -1276,6 +1278,7 @@ h6 {
 }
 
 #footer .footer-top .footer-contact {
+  text-align: center;
   margin-bottom: 30px;
 }
 
